@@ -25,7 +25,7 @@ With millions of listings across cities, Airbnb needs to analyze data to:
 ---
 
 ## 🗂️ Dataset  
-- **File:** `Airbnb_Open_Data.csv`  
+- **File:** `Airbnb_Data.csv`  
 - **Rows:** ~102k  
 - **Columns:** 26 (id, host details, neighborhood, room type, price, reviews, availability, etc.)  
 
